@@ -21,3 +21,11 @@ que os adjunto en la carpeta.
 ## Enlace prototipo navegable en Marvel
 
 [https://marvelapp.com/a7hjfbj](https://marvelapp.com/a7hjfbj)
+
+## Notas
+
+En la pantalla 1 se modifica el estilo de celda para incluir un anuncio _tipo_ de Wallapop, en este caso se ha creado en anuncio *Todo mascotas*.
+
+Se incluye en la carpeta Assets la pantalla prototipo donde me basé par incluir esta celda (_01_extra.png_).
+
+
