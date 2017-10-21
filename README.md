@@ -20,7 +20,7 @@ que os adjunto en la carpeta.
 
 ## Enlace prototipo navegable en Marvel
 
-[https://marvelapp.com/a7hjfbj](https://marvelapp.com/a7hjfbj)
+[Enlace a prototitpo](https://marvelapp.com/a7hjfbj)
 
 ## Notas
 
